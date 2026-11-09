@@ -7,6 +7,7 @@
 <a href="https://linktr.ee/whiroshi"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
 <a href="https://www.linkedin.com/in/w-hiroshi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:w.hiroshi.fkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/fkdhiro"><img src="https://api.visitorbadge.io/api/visitors?path=fkdhiro%2Ffkdhiro&label=visitors&labelColor=555555&countColor=8b9cf7&style=flat-square" alt="Visitors" /></a>
 
 </div>
 
@@ -35,6 +36,12 @@ I build backend services and APIs, and I enjoy clean code, solid architecture an
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fkdhiro&layout=compact&hide_border=true&theme=transparent&title_color=8b9cf7&text_color=c9d1d9&bg_color=00000000&langs_count=6">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fkdhiro&layout=compact&hide_border=true&theme=transparent&title_color=4f46e5&text_color=24292f&bg_color=00000000&langs_count=6" height="160" alt="Top languages" />
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkdhiro/fkdhiro/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/fkdhiro/fkdhiro/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </picture>
 
 </div>
