@@ -1,5 +1,3 @@
-hello world! · <sub><a href="https://linktr.ee/whiroshi">Linktree</a></sub>
-
 <div align="center">
 
 <picture>
@@ -8,3 +6,5 @@ hello world! · <sub><a href="https://linktr.ee/whiroshi">Linktree</a></sub>
 </picture>
 
 </div>
+
+<a href="https://linktr.ee/whiroshi"><img align="right" src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree" /></a>hello world!
