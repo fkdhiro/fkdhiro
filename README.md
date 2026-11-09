@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Willian%20Hiroshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Willian Hiroshi - Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Willian%20Hiroshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Willian Hiroshi" width="100%" />
 
 <a href="https://github.com/fkdhiro"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Desenvolvedor+full-stack;APIs+e+back-end;Jogos+casuais+%F0%9F%8E%AE;Aprendendo+e+construindo+todo+dia" alt="Frase animada" /></a>
 
