@@ -9,13 +9,13 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/hello-dark.svg">
+  <img src="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/hello-light.svg" alt="hello world!" width="40%" />
+</picture>
 <a href="https://linktr.ee/whiroshi">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/linktree-dark.svg">
-    <img align="right" src="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/linktree-light.svg" alt="linktr.ee/whiroshi" height="36" />
+    <img src="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/linktree-light.svg" alt="linktr.ee/whiroshi" width="58%" />
   </picture>
 </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/hello-dark.svg">
-  <img src="https://raw.githubusercontent.com/fkdhiro/fkdhiro/main/assets/hello-light.svg" alt="hello, world" height="36" />
-</picture>
