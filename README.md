@@ -13,7 +13,7 @@
 
 <br />
 
-I build backend services and APIs, and I enjoy clean code, solid architecture and turning ideas into products that work.
+Solid architecture and turning ideas into products that work.
 
 ## Stack
 
