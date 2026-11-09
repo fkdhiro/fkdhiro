@@ -1,4 +1,4 @@
-hello world!
+hello world! · <sub><a href="https://linktr.ee/whiroshi">Linktree</a></sub>
 
 <div align="center">
 
@@ -8,5 +8,3 @@ hello world!
 </picture>
 
 </div>
-
-<sub><a href="https://linktr.ee/whiroshi">Linktree</a></sub>
