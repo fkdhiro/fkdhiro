@@ -1,76 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Willian%20Hiroshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Willian Hiroshi" width="100%" />
+# Willian Hiroshi
 
-<a href="https://github.com/fkdhiro"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Desenvolvedor+full-stack;APIs+e+back-end;Jogos+casuais+%F0%9F%8E%AE;Aprendendo+e+construindo+todo+dia" alt="Frase animada" /></a>
+**Full-stack developer** · backend, APIs & casual games
 
-</div>
-
----
-
-## 👋 Sobre / About
-
-**🇧🇷** Sou desenvolvedor full-stack, com foco em back-end, APIs e jogos casuais. Gosto de código limpo, boas arquiteturas e de transformar ideias em produtos que funcionam.
-
-**🇺🇸** Full-stack developer focused on back-end, APIs and casual games. I enjoy clean code, solid architecture and turning ideas into working products.
-
-## 🛠️ Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+<a href="https://linktr.ee/whiroshi"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+<a href="https://www.linkedin.com/in/w-hiroshi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:w.hiroshi.fkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
-
-## 📊 Estatísticas / Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=fkdhiro&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=false&include_all_commits=true">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fkdhiro&show_icons=true&hide_border=true&theme=default&bg_color=00000000&count_private=false&include_all_commits=true" height="170" alt="Estatísticas do GitHub" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fkdhiro&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fkdhiro&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=6" height="170" alt="Linguagens mais usadas" />
-</picture>
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fkdhiro&theme=tokyonight&hide_border=true&background=00000000">
-  <img src="https://streak-stats.demolab.com?user=fkdhiro&theme=default&hide_border=true&background=00000000" height="170" alt="Sequência de contribuições" />
-</picture>
+I build backend services and APIs, and I enjoy clean code, solid architecture and turning ideas into products that work.
 
-</div>
+## Stack
 
-## 🚀 Destaques / Featured
-
-| Projeto | Descrição |
+|  |  |
 |---|---|
-| [**DesafioGDM**](https://github.com/fkdhiro/DesafioGDM) | Desafio de desenvolvedor back-end · TypeScript |
-| [**VendaIngressos**](https://github.com/fkdhiro/VendaIngressos) | Sistema de venda de ingressos (back-end) · JavaScript |
-| [**Paralelo-e-Distribuido**](https://github.com/fkdhiro/Paralelo-e-Distribuido) | Cálculo de Pi por Monte Carlo em computação paralela e distribuída · Python |
-| [**Pokedex**](https://github.com/fkdhiro/Pokedex) | Controle de Pokémons: cadastrar, modificar, excluir e consultar · Java |
-| [**Calculadora-de-Multas**](https://github.com/fkdhiro/Calculadora-de-Multas) | Trabalho de IHC (UTFPR): calculadora de pontos e valores de multas · HTML |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Frontend & Games** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-55C2E1?style=flat-square&logo=cocos&logoColor=white) |
 
-## 📫 Contato / Contact
+## GitHub
 
 <div align="center">
 
-<a href="https://linktr.ee/whiroshi" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linktree" /></a>
-<a href="https://www.linkedin.com/in/w-hiroshi/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
-<a href="mailto:w.hiroshi.fkd@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=fkdhiro&show_icons=true&hide_border=true&theme=transparent&title_color=8b9cf7&text_color=c9d1d9&icon_color=8b9cf7&bg_color=00000000&count_private=false">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fkdhiro&show_icons=true&hide_border=true&theme=transparent&title_color=4f46e5&text_color=24292f&icon_color=4f46e5&bg_color=00000000&count_private=false" height="160" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fkdhiro&layout=compact&hide_border=true&theme=transparent&title_color=8b9cf7&text_color=c9d1d9&bg_color=00000000&langs_count=6">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fkdhiro&layout=compact&hide_border=true&theme=transparent&title_color=4f46e5&text_color=24292f&bg_color=00000000&langs_count=6" height="160" alt="Top languages" />
+</picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="" width="100%" />
